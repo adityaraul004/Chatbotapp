@@ -4,7 +4,7 @@ A modern chatbot application built with React, Nhost Auth, Hasura GraphQL, and n
 
 ## 🚀 Live Demo
 
-**Deployed Application**: [https://subspace-chatbot-assignment.netlify.app](https://subspace-chatbot-assignment.netlify.app)
+**Deployed Application**: https://aditya-narayan-raul-subspace-chatbot.netlify.app/
 
 ## 📋 Features
 
@@ -283,7 +283,7 @@ This project is licensed under the MIT License.
 
 For questions or issues, please contact:
 - Email: rauladitya1234@gmail.com
-- GitHub Issues: 
+- Linkedin: www.linkedin.com/in/aditya-raul-5929b4259
 
 ---
 
